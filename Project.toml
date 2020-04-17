@@ -1,0 +1,8 @@
+name = "MaxEntChemostat"
+uuid = "0dd752d6-80d5-11ea-19c6-9de0c61d3d71"
+authors = ["josePereiro <jose.pereiro.lab@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+JuliaFormatter = "98e50ef6-434e-11e9-1051-2b60c6c9e899"
+MetabolicEP = "d5db6e97-2ecf-55bd-9135-8799dc4509b8"
